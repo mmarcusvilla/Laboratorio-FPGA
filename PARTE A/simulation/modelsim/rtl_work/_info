@@ -1,0 +1,42 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\users\marcos\Mis Documentos\Laboratorio FPGA\PARTE A\simulation\modelsim
+Ecircuito_combinacional
+Z1 w1760823298
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\users\marcos\Mis Documentos\Laboratorio FPGA\PARTE A\simulation\modelsim
+8C:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/testbench.vhd
+FC:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/testbench.vhd
+l0
+L5
+V2BzDF3EZ0<@[>mfMaDU=X0
+!s100 9>8Bo^m_E6@4jQMo@A:RS3
+Z5 OV;C;10.1d;51
+31
+!i10b 1
+!s108 1760823575.901000
+!s90 -reportprogress|300|-93|-work|work|C:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/testbench.vhd|
+!s107 C:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/testbench.vhd|
+Z6 o-93 -work work -O0
+Z7 tExplicit 1
+Acomportamiento
+R2
+R3
+DEx4 work 22 circuito_combinacional 0 22 2BzDF3EZ0<@[>mfMaDU=X0
+l15
+L14
+VPgG8QJ]HiWib0i]Xz;hUS2
+R5
+31
+!s108 1760823575.529000
+!s90 -reportprogress|300|-93|-work|work|C:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/CIRCUITO_COMBINACIONAL.vhd|
+!s107 C:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/CIRCUITO_COMBINACIONAL.vhd|
+R6
+R7
+FC:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/CIRCUITO_COMBINACIONAL.vhd
+8C:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/CIRCUITO_COMBINACIONAL.vhd
+!s100 WF?hFg:l>RWZmkFLa5Z:K1
+!i10b 1

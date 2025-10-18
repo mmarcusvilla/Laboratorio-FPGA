@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/CIRCUITO_COMBINACIONAL.vhd
+source_file = 1, C:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/Waveform.vwf
+source_file = 1, C:/users/marcos/Mis Documentos/Laboratorio FPGA/PARTE A/db/CIRCUITO_COMBINACIONAL.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = CIRCUITO_COMBINACIONAL
+instance = comp, \s~output , s~output, CIRCUITO_COMBINACIONAL, 1
+instance = comp, \co~output , co~output, CIRCUITO_COMBINACIONAL, 1
+instance = comp, \a~input , a~input, CIRCUITO_COMBINACIONAL, 1
+instance = comp, \b~input , b~input, CIRCUITO_COMBINACIONAL, 1
+instance = comp, \ci~input , ci~input, CIRCUITO_COMBINACIONAL, 1
+instance = comp, \s~0 , s~0, CIRCUITO_COMBINACIONAL, 1
+instance = comp, \co~0 , co~0, CIRCUITO_COMBINACIONAL, 1
